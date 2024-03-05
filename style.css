@@ -1,6 +1,8 @@
 header{
     background-color: #9740df;
     color: white;
+   display: flex;
+   justify-content: space-around
    
 }
 
